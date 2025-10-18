@@ -13,21 +13,6 @@
 - **[My Resume](https://github.com/Aditya11o/Aditya11o/blob/main/Aditya_Halder_CV.pdf)**
 - **I turn coffee into clean code and creative ideas!**
 
-<h3 align="left">Connect with me:</h3>
-<div class="social-icons-wrapper">
-<p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-<a href="https://github.com/Aditya11o" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://linkedin.com/in/adityahalder112" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://instagram.com/aditya_halder_10" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-</p>
-</div>
-
 <div class="skills-section">
 <h3 align="left">Languages and Tools:</h3>
 <p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
