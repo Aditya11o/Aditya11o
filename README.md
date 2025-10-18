@@ -13,9 +13,9 @@
 - **Ask me about:** Data Analysis, Python, Power BI
 - **How to reach me:** [halderaditya632@gmail.com](mailto:halderaditya632@gmail.com)
 - **[My Portfolio](https://aditya11o.github.io/aditya/)**
-- My Blog/Articles: thefooddiaries1.blogspot.com *(Invalid URL)*
+- **My Blog/Articles:** thefooddiaries1.blogspot.com *(Invalid URL)*
 - **[My Resume](https://github.com/Aditya11o/Aditya_Halder_Resume/blob/main/Aditya_Halder_CV.pdf)**
-- **Fun fact:** I turn coffee into clean code and creative ideas!
+- **I turn coffee into clean code and creative ideas!**
 
 <h3 align="left">Connect with me:</h3>
 <div class="social-icons-wrapper">
@@ -51,7 +51,3 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya11o&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
 
 <p align="center"><img src="https://streak-stats.demolab.com/?user=Aditya11o&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya11o&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/Aditya11o" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @Aditya11o" /></a>
-</p>
