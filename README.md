@@ -48,6 +48,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aditya11o&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="Aditya11o's GitHub Stats" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya11o&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
 <p align="center"><img src="https://streak-stats.demolab.com/?user=Aditya11o&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
