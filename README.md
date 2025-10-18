@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aditya Halder!</h1>
+<h1 align="left">Hi 👋, I'm Aditya Halder!</h1>
 
-<h3 align="center">I am a BCA student beginning my journey in Data Analysis. I am learning Python, SQL, Pandas, and Power BI to explore, clean, and visualize data. I am passionate about understanding patterns in data and turning them into meaningful insights. I am eager to grow my skills through practical projects, hands-on learning, and continuous exploration in the field of Data Science.</h3>
+<h3 align="left">I am a BCA student beginning my journey in Data Analysis. I am learning Python, SQL, Pandas, and Power BI to explore, clean, and visualize data. I am passionate about understanding patterns in data and turning them into meaningful insights. I am eager to grow my skills through practical projects, hands-on learning, and continuous exploration in the field of Data Science.</h3>
 
 <h3 align="left">More About Me:</h3>
 
@@ -42,6 +42,6 @@
 </p>
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aditya11o&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="Aditya11o's GitHub Stats" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Aditya11o&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="Aditya11o's GitHub Stats" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=Aditya11o&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
+<p align="left"><img src="https://streak-stats.demolab.com/?user=Aditya11o&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
