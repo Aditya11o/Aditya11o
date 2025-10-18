@@ -8,14 +8,14 @@
 
 <h3 align="left">More About Me:</h3>
 
-- 🌱 **I'm currently learning Python**
-- 🔭 I’m currently working on: **My personal portfolio website & a Data Analysis project.**
-- 💬 Ask me about: **Data Analysis, Python, Power BI**
-- 📫 How to reach me: [halderaditya632@gmail.com](mailto:halderaditya632@gmail.com)
-- 👨‍💻 **[My Portfolio](https://aditya11o.github.io/aditya/)**
-- 📝 My Blog/Articles: thefooddiaries1.blogspot.com *(Invalid URL)*
-- 📄 **[My Resume](https://github.com/Aditya11o/Aditya_Halder_Resume/blob/main/Aditya_Halder_CV.pdf)**
-- ⚡ Fun fact: **I turn coffee into clean code and creative ideas!**
+- **I'm currently learning Python**
+- **I’m currently working on:** My personal portfolio website & a Data Analysis project.
+- **Ask me about:** Data Analysis, Python, Power BI
+- **How to reach me:** [halderaditya632@gmail.com](mailto:halderaditya632@gmail.com)
+- **[My Portfolio](https://aditya11o.github.io/aditya/)**
+- My Blog/Articles: thefooddiaries1.blogspot.com *(Invalid URL)*
+- **[My Resume](https://github.com/Aditya11o/Aditya_Halder_Resume/blob/main/Aditya_Halder_CV.pdf)**
+- **Fun fact:** I turn coffee into clean code and creative ideas!
 
 <h3 align="left">Connect with me:</h3>
 <div class="social-icons-wrapper">
