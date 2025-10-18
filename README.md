@@ -8,7 +8,7 @@
 
 <h3 align="left">More About Me:</h3>
 
-- 🌱 I’m currently learning: **I'm currently learning Python**
+- 🌱 **I'm currently learning Python**
 - 🔭 I’m currently working on: **My personal portfolio website & a Data Analysis project.**
 - 💬 Ask me about: **Data Analysis, Python, Power BI**
 - 📫 How to reach me: [halderaditya632@gmail.com](mailto:halderaditya632@gmail.com)
