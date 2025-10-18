@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Aditya Halder!</h1>
 
-<h3 align="left">I am a BCA student beginning my journey in Data Analysis. I am learning Python, SQL, Pandas, and Power BI to explore, clean, and visualize data. I am passionate about understanding patterns in data and turning them into meaningful insights. I am eager to grow my skills through practical projects, hands-on learning, and continuous exploration in the field of Data Science.</h3>
+<h4 align="left">I am a BCA student beginning my journey in Data Analysis. I am learning Python, SQL, Pandas, and Power BI to explore, clean, and visualize data. I am passionate about understanding patterns in data and turning them into meaningful insights. I am eager to grow my skills through practical projects, hands-on learning, and continuous exploration in the field of Data Science.</h4>
 
 <h3 align="left">More About Me:</h3>
 
