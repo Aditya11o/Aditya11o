@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Aditya11o/Aditya11o/blob/main/github%20banner.png" alt="Profile Banner" width="100%">
-</p>
-
 <h1 align="center">Hi 👋, I'm Aditya Halder!</h1>
 
 <h3 align="center">I am a BCA student beginning my journey in Data Analysis. I am learning Python, SQL, Pandas, and Power BI to explore, clean, and visualize data. I am passionate about understanding patterns in data and turning them into meaningful insights. I am eager to grow my skills through practical projects, hands-on learning, and continuous exploration in the field of Data Science.</h3>
