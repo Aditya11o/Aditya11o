@@ -44,8 +44,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
-<h4 align="left">Other Skills:</h4>
-<p>Power BI</p>
 </div>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aditya11o&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="Aditya11o's GitHub Stats" /></p>
