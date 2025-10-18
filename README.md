@@ -13,7 +13,7 @@
 - **Ask me about:** Data Analysis, Python, Power BI
 - **How to reach me:** [halderaditya632@gmail.com](mailto:halderaditya632@gmail.com)
 - **[My Portfolio](https://aditya11o.github.io/aditya/)**
-- **My Blog/Articles:** thefooddiaries1.blogspot.com *(Invalid URL)*
+- **My Blog/Articles:** [thefooddiaries1.blogspot.com](https://thefooddiaries1.blogspot.com/)
 - **[My Resume](https://github.com/Aditya11o/Aditya_Halder_Resume/blob/main/Aditya_Halder_CV.pdf)**
 - **I turn coffee into clean code and creative ideas!**
 
