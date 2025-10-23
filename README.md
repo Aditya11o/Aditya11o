@@ -1,32 +1,46 @@
-<h1 align="left">Hi 👋, I'm Aditya Halder!</h1>
+## 👋 Hey there — I'm Aditya Halder  
+**Data Analyst | Business Analyst | Insight Seeker | Continuous Learner**
 
-<h3 align="left">I am a BCA student beginning my journey in Data Analysis. I am learning Python, SQL, Pandas, and Power BI to explore, clean, and visualize data. I am passionate about understanding patterns in data and turning them into meaningful insights. I am eager to grow my skills through practical projects, hands-on learning, and continuous exploration in the field of Data Science.</h3>
+Welcome to my space on the internet! 👨‍💻  
 
-<h3 align="left">More About Me:</h3>
+I’m **Aditya**, a **Data Analyst** passionate about uncovering stories hidden in data and turning them into strategies that matter. I love working with data to answer business questions, improve processes, and support evidence-based decision-making.  
 
-- **I'm currently learning Python**
-- **I’m currently working on:** My personal portfolio website & a Data Analysis project.
-- **Ask me about:** Data Analysis, Python, Power BI
-- **How to reach me:** [halderaditya632@gmail.com](mailto:halderaditya632@gmail.com)
-- **[My Portfolio](https://aditya11o.github.io/aditya/)**
-- **[My Blog](https://thefooddiaries1.blogspot.com/)**
-- **[My Resume](https://github.com/Aditya11o/Aditya11o/blob/main/Aditya_Halder_CV.pdf)**
-- **I turn coffee into clean code and creative ideas!**
+Whether it’s designing dashboards, optimizing workflows, or discovering trends, I enjoy using data as a tool to bring clarity and direction to complex problems. My approach combines analytical thinking with creativity — ensuring insights don’t just inform, but inspire action.  
 
-<div class="skills-section">
-<h3 align="left">Languages and Tools:</h3>
-<p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-<img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="45" style="vertical-align: middle; margin: 5px;" />
-</p>
-</div>
+📍 Based in **Kolkata**, I’m eager to collaborate with professionals and organizations that use data to drive growth, innovation, and smarter decision-making.  
 
-<!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Aditya11o&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="Aditya11o's GitHub Stats" /></p> -->
+---
 
-<!-- <p align="left"><img src="https://streak-stats.demolab.com/?user=Aditya11o&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p> -->
+### 💼 A Little About Me
+- 📈 I specialize in **translating data into actionable insights** for better business outcomes.  
+- 🧩 Strong in **data visualization, exploratory analysis, and KPI reporting**.  
+- 🛠️ Adept at building **interactive dashboards** and performing **data-driven business analysis**.  
+- 🧠 I believe great analysis is not about numbers alone — it’s about **asking the right questions**.  
+- 🔍 Curious by nature — I love learning new tools, exploring datasets, and finding patterns others might miss.  
+- 😄 Fun fact: *I can turn messy spreadsheets into meaningful stories.*  
+
+---
+
+### 🧰 My Tech Toolkit
+**Languages:** Python, SQL  
+**Visualization & BI:** Power BI, Excel, Matplotlib, Seaborn  
+**Data Tools:** Pandas, NumPy  
+**Databases:** MySQL, PostgreSQL  
+**Version Control:** Git, GitHub  
+**Deployment:** Backend*  
+**Other Skills:** Data Cleaning, Business Analytics, Statistical Analysis  
+
+---
+
+### 🧭 Let’s Connect
+I’m always open to learning, collaborating, and working on projects that challenge my thinking.  
+If you’re exploring ways to make data work smarter for your business — let’s connect!  
+
+📬 **Email:** [halderaditya632@gmail.com](mailto:halderaditya632@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/adityahalder112](https://www.linkedin.com/in/adityahalder112)  
+💻 **GitHub:** [github.com/Aditya11o](https://github.com/Aditya11o)  
+
+---
+
+🌟 Thanks for visiting my profile!  
+Feel free to explore my work — and if something sparks your interest, I’d love to chat about it. Collaboration makes great ideas even better. 🙌  
