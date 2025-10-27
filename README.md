@@ -12,12 +12,12 @@ Based in **Kolkata**, I’m eager to collaborate with professionals and organiza
 ---
 
 ### 💼 A Little About Me
-- 📈 I specialize in **translating data into actionable insights** for better business outcomes.  
-- 🧩 Strong in **data visualization, exploratory analysis, and KPI reporting**.  
-- 🛠️ Adept at building **interactive dashboards** and performing **data-driven business analysis**.  
-- 🧠 I believe great analysis is not about numbers alone — it’s about **asking the right questions**.  
-- 🔍 Curious by nature — I love learning new tools, exploring datasets, and finding patterns others might miss.  
-- 😄 Fun fact: *I can turn messy spreadsheets into meaningful stories.*  
+- I specialize in **translating data into actionable insights** for better business outcomes.  
+- Strong in **data visualization, exploratory analysis, and KPI reporting**.  
+- Adept at building **interactive dashboards** and performing **data-driven business analysis**.  
+- I believe great analysis is not about numbers alone — it’s about **asking the right questions**.  
+- Curious by nature — I love learning new tools, exploring datasets, and finding patterns others might miss.  
+- Fun fact: *I can turn messy spreadsheets into meaningful stories.*  
 
 ---
 
@@ -36,9 +36,9 @@ Based in **Kolkata**, I’m eager to collaborate with professionals and organiza
 I’m always open to learning, collaborating, and working on projects that challenge my thinking.  
 If you’re exploring ways to make data work smarter for your business — let’s connect!  
 
-📬 **Email:** [halderaditya632@gmail.com](mailto:halderaditya632@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/adityahalder112](https://www.linkedin.com/in/adityahalder112)  
-💻 **GitHub:** [github.com/Aditya11o](https://github.com/Aditya11o)  
+**Email:** [halderaditya632@gmail.com](mailto:halderaditya632@gmail.com)  
+**LinkedIn:** [linkedin.com/in/adityahalder112](https://www.linkedin.com/in/adityahalder112)  
+**GitHub:** [github.com/Aditya11o](https://github.com/Aditya11o)  
 
 ---
 
